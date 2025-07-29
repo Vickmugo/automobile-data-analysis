@@ -1,6 +1,3 @@
-Absolutely! Here's a clean and professional **README.md** template for your automobile dataset project. You can copy and customize this for your GitHub repo:
-
----
 
 ## 🚗 Automobile Data Analysis
 
@@ -97,4 +94,3 @@ This project is for educational and learning purposes.
 
 ---
 
-Let me know if you’d like me to generate a real `.md` file or help with GitHub commits.
